@@ -10,8 +10,6 @@ categories:
 - productivity
 ---
 
-Hello World,
-
 Today we are excited to announce the inception of "Idealogy Labs". We are bunch of technology enthusiast, having rigorous experience in several technology domains from CMS, to ERP, to medical, to risk management and list does not stop here.
 
 We excels in cutting edge technologies, ruby, rails, python, django, node.js, hadoop, hive and go. We love working on challanges on technology frontier, we love open source and contribute back to it.
